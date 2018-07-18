@@ -53,7 +53,7 @@
 				<version>0.9.6</version>
 				<configuration>
 					<to>
-						<image>gcr.io/cf-spring-funkytown/hello-spring</image>
+						<image>trisberg/hello-spring</image>
 					</to>
 				</configuration>
 			</plugin>
